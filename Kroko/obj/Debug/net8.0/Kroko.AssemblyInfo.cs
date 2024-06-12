@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kroko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2cf8575fd9928d2840c92788d31305e83a90461")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kroko")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kroko")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
